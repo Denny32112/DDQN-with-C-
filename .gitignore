@@ -1,0 +1,12 @@
+# 忽略編譯出來的執行檔
+*.exe
+*.o
+*.out
+ddqn_demo
+
+# 忽略 Python 快取 (如果你有跑 Python)
+__pycache__/
+*.pyc
+
+# 忽略 VS Code 設定檔
+.vscode/
